@@ -1,6 +1,2 @@
-Zrobione: 
--zad. 1 a), b) ,c) 
-d) do dokończenia
--zad.  2 ok
--zad. 3 zaczęte
+W pliku lab1 znajdują się opiasne komentarzami rozwiązania do wszystkich zadań 1-4
 

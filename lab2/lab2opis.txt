@@ -1,0 +1,2 @@
+w pliku lab2 znajduje się rozwiązanie zadania 1 i 2 oraz implementacja algorytmu grahama (w którym do poprawy jest jedynie funkcja sortująca).
+Do zrobienia został jeszcze algorytm Jarvisa.
