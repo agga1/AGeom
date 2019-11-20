@@ -1,0 +1,2 @@
+W dołączonym pliku przesyłam rozwiązanie zadań - wczytywanie figur, sprawdzanie y-monotoniczności oraz kolorowanie wierzchołków,
+oraz rozpoczętą triangulacje
