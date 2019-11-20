@@ -1,1 +1,0 @@
-w pliku przesyłam działające generowanie punktów i przygotowany szkielet działania programu
