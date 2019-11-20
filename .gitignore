@@ -1,2 +1,5 @@
 *.zip
 pycharmJupi/
+.idea
+.ipynb-checkpoints
+lab3logN.ipynb
